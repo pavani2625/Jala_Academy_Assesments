@@ -1,0 +1,2 @@
+Hello from Java IO.
+This text is read using InputStream.
